@@ -59,7 +59,7 @@ export const projects = [
     id: 3,
     title: "Restaurant Management System",
     des: "Website created to help Restaurant to show their menus. Else than menu, the website also can help the restaurant to build their own company profile web without creating it themselves.",
-    img: "/lms.png",
+    img: "/PANGGUNG.png",
     iconLists: [],
     link: "/santapatricia.free.nf/",
   },
