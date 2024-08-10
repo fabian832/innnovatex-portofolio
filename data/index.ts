@@ -1,4 +1,5 @@
 export const navItems = [
+  { name: "Home", link: "#home" },
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
   { name: "Team", link: "#team" },
@@ -161,7 +162,7 @@ export const workExperience = [
     thumbnail: "/violetta.jpg",
   },
   {
-    id: 4,
+    id: 5,
     title: "Fabian",
     desc: "Chief Technology Officer in InnovateX",
     className: "md:col-span-2",
