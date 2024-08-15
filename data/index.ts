@@ -149,20 +149,13 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Nathalia",
-    desc: "Chief Business Officer in InnovateX",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/nathalia.jpg",
-  },
-  {
-    id: 4,
     title: "Violetta",
     desc: "Chief Financial Officer in InnovateX",
     className: "md:col-span-2",
     thumbnail: "/violetta.jpg",
   },
   {
-    id: 5,
+    id: 4,
     title: "Fabian",
     desc: "Chief Technology Officer in InnovateX",
     className: "md:col-span-2",
